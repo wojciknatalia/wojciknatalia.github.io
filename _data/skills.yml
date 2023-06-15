@@ -1,11 +1,11 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Software Development
+- skill: Software Development
+  description: <ul class="resume-item-list"><li>.NET Core,</li><li>WPF,</li><li>C#,</li><li>SQL,</li><li>Entity Framework,</li><li>Git,</li><li>xUnit,</li><li>HTML, CSS,</li></li><li>Azure DevOps</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Interpersonal skills
+- skill: Interpersonal skills
+  description: description: <ul class="resume-item-list"><li>Communication and willingness to cooperate,</li><li>Active listening and teamworking,</li><li>Responsibility and problem-solving,</li><li>Analytical thinking,</li><li>Attention to detail</li></ul>
 
 # Digital content development and creation
 - skill: Digital content development and creation

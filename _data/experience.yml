@@ -1,12 +1,18 @@
 # Jobs
 # .NET Developer
-- company: Q-PERIOR
+- company: Q-PERIOR Poland, Gliwice
   position: .NET Developer
-  duration: Feb, 2020 &mdash; Present
+  duration: Feb, 2022 &mdash; Present
   summary: Developing and implementing WPF and Web Applications using .NET Core.    <ul class="resume-item-list"><li>Business logic analysis and implementation,</li><li>Gathering requirements at an abstraction level and translating them into an architecture and technical description of the system,</li><li>Coordinate with other software professionals, developers and product owners,</li><li>Using Azure DevOps for project management,</li><li>Working with Agile methodology</li></ul>
+  
+# Junior .NET Developer
+- company: Q-PERIOR Poland, Gliwice
+  position: .NET Developer
+  duration: Feb, 2020 &mdash; Feb, 2022
+  summary: Designing and implementing software solutions using .NET Core, Blazor and Angular.    <ul class="resume-item-list"><li>Participating in project planning and estimation using Agile methodology and JIRA,</li><li>Using good practices such as code review, unit testing, design patterns</li></ul>
 
 # Junior Application Specialist
-- company: Sii Poland
+- company: Sii Poland, Kraków
   position: Junior Application Specialist
   duration:  May, 2019 &mdash; Feb, 2020
   summary: Working collaboratively with a team to provide technical support for applications.   <ul class="resume-item-list"><li>Responding to requests and incidents related to administrated tools,</li><li>Analyse technical and functional issues reported by clients,</li><li>Writing SQL queries used for front-end application,</li><li>Defect reporting and tracking,</li><li>Providing root cause analysis and resolutions to end user issues</li></ul>

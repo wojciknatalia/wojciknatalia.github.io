@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Natalia Wójcik"
-resume_title:                   ".NET Developer"
+resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nataliaaawojcik@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
-resume_contact_address:         "Gliwice, Poland"
+resume_contact_address:         "Oslo, Norway"
 
 resume_header_contact_info:     "Oslo • nataliaaawojcik@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro:    "<p>My professional path began to shape over 6 years ago, in parallel with studying computer science. For almost 4 years I have been using my skills of analytical thinking, creativity and attention to detail to work as a .NET developer. I love working with people. As a sports enthusiast, I consider programming a team sport and I believe in the power of mutual motivation and learning.</p>"
+resume_header_intro:    "<p>I am a Software Engineer with 6 years of experience, focused on high-impact work within the Microsoft 365 backend. What drives me is the chance to solve tough problems—using a mix of analytical thinking and creativity to understand how systems work and how we can make them better. My interests span AI, scalable product architecture, and connecting with people to move ideas from concept to completion. With a background in Computer Science, I genuinely love the process of exploring new technologies and building robust solutions.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,9 +38,9 @@ resume_section_education:       true
 resume_section_projects:        false
 resume_section_skills:          true
 resume_section_recognition:     false
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    false
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

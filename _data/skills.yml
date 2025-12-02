@@ -1,8 +1,41 @@
 # Skills
 # Software Development
 - skill: Software Development
-  description: <ul class="resume-item-list"><li>.NET Core,</li><li>WPF with DevExpress,</li><li>C#,</li><li>SQL (Microsoft SQL Server),</li><li>Entity Framework,</li><li>Blazor,</li><li>Git and CI/CD practices,</li><li>xUnit,</li><li>HTML, CSS,</li><li>Angular,</li></li><li>Azure DevOps,</li><li>Designs Patterns,</li></ul>
+  description:
+  <ul>
+      <li>
+        <strong>Languages & Frameworks:</strong> C#, .NET 8/Core, Blazor, Entity Framework Core (EF Core), SQL, T-SQL, JavaScript/TypeScript (Familiarity).
+      </li>
+      <li>
+        <strong>Cloud & DevOps:</strong> Azure Data Factory, Docker, CI/CD Pipelines, Canary Deployments, Git, Azure DevOps.
+      </li>
+      <li>
+        <strong>Architecture & Quality:</strong> Domain-Driven Design (DDD), Clean Architecture, SOLID Principles, Unit Testing (xUnit), Integration Testing, Performance Profiling, Security and Compliance.
+      </li>
+      <li>
+        <strong>Databases & APIs:</strong> SQL Server, RESTful API Development.
+      </li>
+      <li>
+        <strong>Methodologies & Tools:</strong> Feature Flags, Monitoring & Observability (Metrics, Dashboards, Logging).
+      </li>
+      <li>
+        <strong>AI Integration:</strong> AI-Powered Development, Leveraging AI-assisted coding tools (GitHub Copilot) to enhance code quality and accelerate feature delivery, AI orchestration platforms (Microsoft Copilot Studio) for automating workflows and creating custom AI agents.
+      </li>
+    </ul>
 
 # Interpersonal skills
 - skill: Interpersonal skills
-  description: <ul class="resume-item-list"><li>Communication and willingness to cooperate,</li><li>Active listening and teamworking,</li><li>Responsibility and problem-solving,</li><li>Analytical thinking,</li><li>Attention to detail</li></ul>
+  description: <ul>
+      <li>
+        <strong>Collaboration & Culture:</strong> Positive and Friendly Attitude fostering strong Team Cohesion, Cross-functional Team Collaboration, Conflict Resolution.
+      </li>
+      <li>
+        <strong>Communication:</strong> Clear and Concise Communication, Active Listening, Technical Documentation.
+      </li>
+      <li>
+        <strong>Problem Solving & Ownership:</strong> Analytical Thinking, Root Cause Analysis, High Ownership of feature delivery and production health, Attention to Detail, Strategic Problem Solving.
+      </li>
+      <li>
+        <strong>Business Focus:</strong> Translating Business Requirements into Technical Solutions, Focusing on Business Value and Customer Experience.
+      </li>
+    </ul>

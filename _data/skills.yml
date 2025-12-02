@@ -1,8 +1,7 @@
 # Skills
-# Software Development
 - skill: Software Development
-  description:
-  <ul>
+  description: |
+    <ul>
       <li>
         <strong>Languages & Frameworks:</strong> C#, .NET 8/Core, Blazor, Entity Framework Core (EF Core), SQL, T-SQL, JavaScript/TypeScript (Familiarity).
       </li>
@@ -25,7 +24,8 @@
 
 # Interpersonal skills
 - skill: Interpersonal skills
-  description: <ul>
+  description: |
+    <ul>
       <li>
         <strong>Collaboration & Culture:</strong> Positive and Friendly Attitude fostering strong Team Cohesion, Cross-functional Team Collaboration, Conflict Resolution.
       </li>
